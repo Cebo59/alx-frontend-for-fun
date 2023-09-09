@@ -1,4 +1,5 @@
-s-red: #D73953;
+:root {
+	--is-red: #D73953;
 	--btn-transition: 0.1s ease-out;
 	--circle-size: 2rem;
 }
